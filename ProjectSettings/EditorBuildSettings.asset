@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/FloodedTraction.unity
+    guid: 7e91efbd4fb269e4495f888bb4c4d3a6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: aa7cff7987e17de4dabca4455770cb02, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 24d56c0b93a312c44bafbff63003ea1b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3f6ae460874ed214087e8ffcf5680042, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f6ff8f386923b004390c79bf274ecce6, type: 2}
